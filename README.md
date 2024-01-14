@@ -1,4 +1,4 @@
-# GEOG486-Multiscale-Map-Design-Mapbox
+# GEOG486: Multiscale-Map-Design-Mapbox
 
 Assignment Objectives: 
 1. Design an interactive basemap from the ground up using Mapbox Studio(link is external).
